@@ -1,0 +1,7 @@
+{
+    "network/speedtest": {
+        "title": "Speed Test",
+        "view": "vuci-app-speedtest",
+        "index": 10
+    }
+}
